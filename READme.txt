@@ -1,0 +1,1 @@
+Used CHATGPT to generate code for the schools summary as I did that instead of district summary at first and thus had code to use for the remainder of schools summary. I then revised the code to put everything where it belonged. 
